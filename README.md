@@ -76,7 +76,7 @@ Then open your browser at [http://localhost:8501](http://localhost:8501)
 ![output](output2.png)
 
 
-_Replace these image paths with your actual screenshot filenames._
+
 
 ---
 
